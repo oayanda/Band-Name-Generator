@@ -1,1 +1,5 @@
-print("Hello!")
+print("Welcome to band Generator App !")
+name_variable_one = input("Please enter the name of the city your grew up? ")
+name_variable_two = input("What is the name of your pet? ")
+band_name = (name_variable_one +" "+ name_variable_two)
+print(band_name)
